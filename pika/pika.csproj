@@ -32,6 +32,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Resources\pikachu.ico</ApplicationIcon>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -153,9 +156,6 @@
     <None Include="Resources\3cafeb5414afb38443ca5ffb94c7aa4a.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\1370449272314.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\full_IMG_4632.png" />
   </ItemGroup>
   <ItemGroup>
@@ -163,6 +163,24 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\s1200.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\charmander.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AshPika.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\F1LT.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\giphy.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pikachu.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1504157894_giphy.gif" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

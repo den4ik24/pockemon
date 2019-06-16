@@ -26,61 +26,73 @@ namespace pika
             //Thread thread = new Thread(Sound);
             //thread.Start();
             Sound();
+
+            pictureBox27.Image = Resources.AshPika;
+            pictureBox27.BringToFront();
             await Task.Delay(4000);
 
-            Cycle();
 
+            //Cycle();
 
+            pictureBox27.Image = Resources.F1LT;
+            pictureBox27.BringToFront();
+            
 
             pictureBox26.Image = Resources.ash;
             pictureBox26.BringToFront();
-            await Task.Delay(3000);
-            pictureBox26.Image = null;
+            
+            
+           
 
             pictureBox25.Image = Resources.source;
             pictureBox25.BringToFront();
-            await Task.Delay(3000);
+            await Task.Delay(4000);
             pictureBox25.Image = null;
 
-            pictureBox26.Image = Resources.ash;
-            pictureBox26.BringToFront();
-            await Task.Delay(3000);
+            pictureBox27.Image = Resources.giphy;
+            pictureBox27.BringToFront();
+            
 
+            
             pictureBox25.Image = Resources.source;
             pictureBox25.BringToFront();
-            await Task.Delay(3000);
+            await Task.Delay(4000);
 
+            
             Cycle();
 
             pictureBox27.Image = Resources.full_IMG_4632;
             pictureBox27.BringToFront();
-            await Task.Delay(3000);
+            await Task.Delay(4000);
             pictureBox27.Image = null;
-            await Task.Delay(2000);
+            await Task.Delay(3000);
 
             pictureBox27.Image = Resources._3cafeb5414afb38443ca5ffb94c7aa4a;
             pictureBox27.BringToFront();
-            await Task.Delay(3000);
+            await Task.Delay(4000);
             pictureBox27.Image = null;
-            await Task.Delay(2000);
+            await Task.Delay(3000);
 
-            pictureBox27.Image = Resources._1370449272314;
+            pictureBox27.Image = Resources.charmander;
             pictureBox27.BringToFront();
-            await Task.Delay(3000);
+            await Task.Delay(4000);
             pictureBox27.Image = null;
-            await Task.Delay(2000);
+            await Task.Delay(3000);
+
+            pictureBox26.Image = Resources._1504157894_giphy;
+            pictureBox26.BringToFront();
 
             pictureBox27.Image = Resources.s1200;
             pictureBox27.BringToFront();
-            await Task.Delay(3000);
+            await Task.Delay(4000);
             pictureBox27.Image = null;
-            await Task.Delay(2000);
+            await Task.Delay(3000);
 
             pictureBox27.Image = Resources.pokemon_PNG75;
             pictureBox27.BringToFront();
-            await Task.Delay(3000);
+            await Task.Delay(4000);
             pictureBox27.Image = null;
-            await Task.Delay(2000);
+            await Task.Delay(3000);
 
             pictureBox28.Image = Resources.mfn8d5sp;
             pictureBox28.BringToFront();
@@ -94,12 +106,14 @@ namespace pika
 
             pictureBox28.Image = Resources.wW6eBg;
             pictureBox28.BringToFront();
-            await Task.Delay(3000);
-            
-            //await Task.Delay(2000);
-
 
             Cycle();
+
+            await Task.Delay(8000);
+            //await Task.Delay(5000);
+
+
+            Close();
 
         }
         async void Sound()
@@ -113,12 +127,11 @@ namespace pika
             
         }
 
+       
+
         async void Cycle()
         {
-            
-            //for(byte b = 20; b > 0; b--)
-            //{
-
+                     
             pictureBox1.Image = Resources.pikachu_0;
             pictureBox1.BringToFront();
             await Task.Delay(250);
@@ -241,7 +254,7 @@ namespace pika
                 await Task.Delay(250);
                 pictureBox24.Image = null;
 
-            //}
+            
 
         }
     }
