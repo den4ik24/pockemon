@@ -34,70 +34,68 @@ namespace pika
 
             pictureBox26.Image = Resources.ash;
             pictureBox26.BringToFront();
-            await Task.Delay(2000);
+            await Task.Delay(3000);
             pictureBox26.Image = null;
 
             pictureBox25.Image = Resources.source;
             pictureBox25.BringToFront();
-            await Task.Delay(2000);
+            await Task.Delay(3000);
             pictureBox25.Image = null;
 
             pictureBox26.Image = Resources.ash;
             pictureBox26.BringToFront();
-            await Task.Delay(2000);
+            await Task.Delay(3000);
 
             pictureBox25.Image = Resources.source;
             pictureBox25.BringToFront();
-            await Task.Delay(2000);
+            await Task.Delay(3000);
 
-            //Cycle();
+            Cycle();
 
             pictureBox27.Image = Resources.full_IMG_4632;
             pictureBox27.BringToFront();
-            await Task.Delay(2000);
+            await Task.Delay(3000);
             pictureBox27.Image = null;
             await Task.Delay(2000);
 
             pictureBox27.Image = Resources._3cafeb5414afb38443ca5ffb94c7aa4a;
             pictureBox27.BringToFront();
-            await Task.Delay(2000);
+            await Task.Delay(3000);
             pictureBox27.Image = null;
             await Task.Delay(2000);
 
             pictureBox27.Image = Resources._1370449272314;
             pictureBox27.BringToFront();
-            await Task.Delay(2000);
+            await Task.Delay(3000);
             pictureBox27.Image = null;
             await Task.Delay(2000);
 
             pictureBox27.Image = Resources.s1200;
             pictureBox27.BringToFront();
-            await Task.Delay(2000);
+            await Task.Delay(3000);
             pictureBox27.Image = null;
             await Task.Delay(2000);
 
             pictureBox27.Image = Resources.pokemon_PNG75;
             pictureBox27.BringToFront();
-            await Task.Delay(2000);
+            await Task.Delay(3000);
             pictureBox27.Image = null;
             await Task.Delay(2000);
 
             pictureBox28.Image = Resources.mfn8d5sp;
             pictureBox28.BringToFront();
-            await Task.Delay(2000);
-            //pictureBox28.Image = null;
-            //await Task.Delay(2000);
+            await Task.Delay(3000);
+            
 
             pictureBox28.Image = Resources._19070;
             pictureBox28.BringToFront();
-            await Task.Delay(2000);
-            //pictureBox28.Image = null;
-            //await Task.Delay(2000);
+            await Task.Delay(3000);
+            
 
             pictureBox28.Image = Resources.wW6eBg;
             pictureBox28.BringToFront();
-            await Task.Delay(2000);
-            //pictureBox28.Image = null;
+            await Task.Delay(3000);
+            
             //await Task.Delay(2000);
 
 
