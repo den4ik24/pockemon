@@ -18,42 +18,46 @@ namespace pika
         public Form1()
         {
             InitializeComponent();
-            //Sound();
+            
         }
 
         async void Button1_Click(object sender, EventArgs e)
         {
-            //Thread thread = new Thread(Sound);
-            //thread.Start();
+            
             Sound();
 
-            pictureBox27.Image = Resources.AshPika;
-            pictureBox27.BringToFront();
-            await Task.Delay(4000);
+            new Thread(() =>
+            {
+                Invoke((MethodInvoker)(async() =>
+                {
 
+                    pictureBox27.Image = Resources.AshPika;
+                    pictureBox27.BringToFront();
+                    await Task.Delay(2000);
 
-            //Cycle();
+                    pictureBox27.Image = Resources.F1LT;
+                    pictureBox27.BringToFront();
+                    await Task.Delay(6000);
 
-            pictureBox27.Image = Resources.F1LT;
-            pictureBox27.BringToFront();
-            
+                    pictureBox27.Image = Resources.giphy;
+                    pictureBox27.BringToFront();
+                    await Task.Delay(1000);
+                }));
+            }).Start();
 
+  
             pictureBox26.Image = Resources.ash;
             pictureBox26.BringToFront();
-            
-            
-           
+            await Task.Delay(2000);
+
+
 
             pictureBox25.Image = Resources.source;
             pictureBox25.BringToFront();
             await Task.Delay(4000);
             pictureBox25.Image = null;
 
-            pictureBox27.Image = Resources.giphy;
-            pictureBox27.BringToFront();
-            
-
-            
+                 
             pictureBox25.Image = Resources.source;
             pictureBox25.BringToFront();
             await Task.Delay(4000);
@@ -63,7 +67,7 @@ namespace pika
 
             pictureBox27.Image = Resources.full_IMG_4632;
             pictureBox27.BringToFront();
-            await Task.Delay(4000);
+            await Task.Delay(6000);
             pictureBox27.Image = null;
             await Task.Delay(3000);
 
@@ -79,8 +83,18 @@ namespace pika
             pictureBox27.Image = null;
             await Task.Delay(3000);
 
-            pictureBox26.Image = Resources._1504157894_giphy;
-            pictureBox26.BringToFront();
+
+            new Thread(() =>
+            {
+            Invoke((MethodInvoker)(() =>
+            {
+                pictureBox26.Image = Resources._1504157894_giphy;
+                pictureBox26.BringToFront();
+
+            }));
+
+            }).Start();
+
 
             pictureBox27.Image = Resources.s1200;
             pictureBox27.BringToFront();
@@ -110,9 +124,7 @@ namespace pika
             Cycle();
 
             await Task.Delay(8000);
-            //await Task.Delay(5000);
-
-
+            
             Close();
 
         }
@@ -127,8 +139,7 @@ namespace pika
             
         }
 
-       
-
+   
         async void Cycle()
         {
                      
