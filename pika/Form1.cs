@@ -37,15 +37,15 @@ namespace pika
 
                     pictureBox27.Image = Resources.F1LT;
                     pictureBox27.BringToFront();
-                    await Task.Delay(6000);
+                    await Task.Delay(5000);
 
                     pictureBox27.Image = Resources.giphy;
                     pictureBox27.BringToFront();
-                    await Task.Delay(1000);
+                    await Task.Delay(500);
                 }));
             }).Start();
 
-  
+            await Task.Delay(3000);
             pictureBox26.Image = Resources.ash;
             pictureBox26.BringToFront();
             await Task.Delay(2000);
@@ -67,7 +67,7 @@ namespace pika
 
             pictureBox27.Image = Resources.full_IMG_4632;
             pictureBox27.BringToFront();
-            await Task.Delay(6000);
+            await Task.Delay(5000);
             pictureBox27.Image = null;
             await Task.Delay(3000);
 
@@ -79,7 +79,7 @@ namespace pika
 
             pictureBox27.Image = Resources.charmander;
             pictureBox27.BringToFront();
-            await Task.Delay(4000);
+            await Task.Delay(3000);
             pictureBox27.Image = null;
             await Task.Delay(3000);
 
@@ -98,13 +98,13 @@ namespace pika
 
             pictureBox27.Image = Resources.s1200;
             pictureBox27.BringToFront();
-            await Task.Delay(4000);
+            await Task.Delay(3000);
             pictureBox27.Image = null;
             await Task.Delay(3000);
 
             pictureBox27.Image = Resources.pokemon_PNG75;
             pictureBox27.BringToFront();
-            await Task.Delay(4000);
+            await Task.Delay(3000);
             pictureBox27.Image = null;
             await Task.Delay(3000);
 
@@ -124,8 +124,8 @@ namespace pika
             Cycle();
 
             await Task.Delay(8000);
-            
-            Close();
+
+            Frm2();
 
         }
         async void Sound()
@@ -139,7 +139,13 @@ namespace pika
             
         }
 
-   
+
+        void Frm2()
+        {
+            Hide();
+            Form2 form2 = new Form2();
+            form2.ShowDialog();
+        }
         async void Cycle()
         {
                      
