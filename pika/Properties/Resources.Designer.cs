@@ -191,6 +191,15 @@ namespace pika.Properties {
         }
         
         /// <summary>
+        ///   Поиск локализованного ресурса типа System.IO.UnmanagedMemoryStream, аналогичного System.IO.MemoryStream.
+        /// </summary>
+        internal static System.IO.UnmanagedMemoryStream command_R {
+            get {
+                return ResourceManager.GetStream("command_R", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
         internal static System.Drawing.Bitmap drowzee {
@@ -471,6 +480,15 @@ namespace pika.Properties {
         }
         
         /// <summary>
+        ///   Поиск локализованного ресурса типа System.IO.UnmanagedMemoryStream, аналогичного System.IO.MemoryStream.
+        /// </summary>
+        internal static System.IO.UnmanagedMemoryStream Pokemon_minus {
+            get {
+                return ResourceManager.GetStream("Pokemon_minus", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
         internal static System.Drawing.Bitmap pokemon_PNG75 {
@@ -506,6 +524,15 @@ namespace pika.Properties {
             get {
                 object obj = ResourceManager.GetObject("raticate", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.IO.UnmanagedMemoryStream, аналогичного System.IO.MemoryStream.
+        /// </summary>
+        internal static System.IO.UnmanagedMemoryStream RocketTeam {
+            get {
+                return ResourceManager.GetStream("RocketTeam", resourceCulture);
             }
         }
         

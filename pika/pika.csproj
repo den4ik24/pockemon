@@ -260,5 +260,14 @@
   <ItemGroup>
     <None Include="Resources\uFVkS9.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RocketTeam.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\command_R.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pokemon_minus.wav" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
