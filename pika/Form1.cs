@@ -274,5 +274,12 @@ namespace pika
             
 
         }
+
+        private void PictureBox28_Click(object sender, EventArgs e)
+        {
+            Frm2();
+        }
+
+        
     }
 }
