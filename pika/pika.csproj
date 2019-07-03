@@ -269,5 +269,77 @@
   <ItemGroup>
     <None Include="Resources\Pokemon_minus.wav" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PictureBox1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PictureBox2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PictureBox3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PictureBox4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PictureBox5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PictureBox6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PictureBox7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PictureBox8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PictureBox9.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PictureBox10.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PictureBox11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PictureBox12.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PictureBox13.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PictureBox14.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PictureBox15.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PictureBox16.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PictureBox17.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PictureBox18.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PictureBox19.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PictureBox20.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PictureBox21.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PictureBox22.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PictureBox23.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PictureBox24.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -172,6 +172,78 @@
   <data name="onyx" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\onyx.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="PictureBox1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PictureBox1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PictureBox10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PictureBox10.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PictureBox11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PictureBox11.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PictureBox12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PictureBox12.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PictureBox13" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PictureBox13.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PictureBox14" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PictureBox14.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PictureBox15" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PictureBox15.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PictureBox16" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PictureBox16.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PictureBox17" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PictureBox17.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PictureBox18" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PictureBox18.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PictureBox19" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PictureBox19.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PictureBox2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PictureBox2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PictureBox20" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PictureBox20.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PictureBox21" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PictureBox21.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PictureBox22" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PictureBox22.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PictureBox23" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PictureBox23.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PictureBox24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PictureBox24.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PictureBox3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PictureBox3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PictureBox4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PictureBox4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PictureBox5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PictureBox5.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PictureBox6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PictureBox6.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PictureBox7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PictureBox7.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PictureBox8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PictureBox8.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PictureBox9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PictureBox9.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="pika" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\pika.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
